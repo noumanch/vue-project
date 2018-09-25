@@ -2,7 +2,7 @@
 <div class="my-nav">
 
   <nav class="navbar is-black">
-    <p class="title">Congress & Senate Home Page</p>
+    <p class="title">Congress & Senate home page</p>
     <div class="navbar-end">
     <router-link class="navbar-item"  to="/senator">
         <button class="button is-dark" type="button" name="button">Senate</button>
